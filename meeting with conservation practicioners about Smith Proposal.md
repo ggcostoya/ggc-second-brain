@@ -1,0 +1,65 @@
+---
+tags:
+  - smith-noaa
+date: 2025-07-28
+people:
+  - "[[Brian Folt]]"
+  - Philip Bowles
+  - Katie Hoffman
+  - Tim Lynos
+type:
+  - meeting
+---
+-  Katie Hoffman, leads the global assessment in New Mexico. 
+- Katie center for species reptile assessments
+- Katie manages the IUCN process for the Americas as a whole. 
+- Not a lot of information data. 
+- Global Reptile Assessment in America - 
+	- They run extinction risk assessments. 
+	- Algorithm to judge against that. 
+	- Red List is a huge database 
+	- Second round of reptile assessment, only 10000 assessment. 
+	- Goal is to assess everything by 2030. 
+	- Good data for a lot of species. 
+	- North America there's a lot of missing data. 
+	- Now they are officially a journal. 
+	- Lack of data  is an overall lack of data. 
+	- Red List as a whole. 
+	- North America goal is to re-assess everything. 
+	- Lack of compiled data - Part of the process is compiling the data
+	-  Workshops for specific species. 
+		- *Within workshops are there any species of higher priority*
+	- Student project about Gila monster. 
+	- Immediate priority to Phil is to deal with species that have never been assessed and deal with taxonomic changes. 
+	- North America not a lot of taxonomic stuff. 
+	- Anything that happens. 
+	- Tim Lyons: 
+		- they need updated spatial maps. 
+		- they need to be compatible with red list assessments. 
+		- threat classification scheme - standard of categorization. 
+		- 2006 North American reptile assessments - Nature Serve. 
+		- Proprietary agreements. 
+		- They don't have access to state level data. 
+	- Information on the assessment has to be in the format of a scientific research paper. 
+	- NatureServe
+	- Turtles? 
+	- Things to include in red list -> Climate change has been underrepresented in IUCN red list - 
+	- Green status assessments. 
+	- IUCN co-collaborator. 
+	- ABQ BioPark on Board! 
+	- BioPark has contacts with NM Dept. of Wildlife. 
+	- Measuring things that are directly implementable for a RedList assessment. 
+	- Time frames - 
+	- Generation length - average reproductive age. 
+	- Consideration - Phenotypic plasticity - Extent of plasticity - Changes over time. 
+	- Thing to be cautious about - Some species might go up? 
+	- Ecosystem cycling - Lizard ecosystem service. 
+	- Caracol - Belize. 
+	- Sceloporus variabilis. 
+	- Phil needs to confirm if he can act as a co-sponsor. 
+	- Lizard and Tuatara RedList authority. 
+	- Katie Hoffman: which organization would be better to represent as co-sponsor. 
+	- Yes. 
+	- SquamBase.
+	- Get list of lizards not assessed - Send excel file with research.
+	- Send Katie data for Mexican species -

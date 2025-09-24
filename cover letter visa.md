@@ -1,0 +1,13 @@
+---
+tags:
+  - admin
+date: 2025-05-17
+---
+To whom it may concern,
+My name is Guillermo Garcia Costoya and I have been a J-1 visa holder since 2020. During this time, I have been enrolled in the Graduate Program in Ecology, Evolution and Conservation Biology at the University of Nevada, Reno, where I am currently completing my PhD under the supervision of Professor [[Mike Logan]]. I am writing this letter as part of the process of renewing my J-1 visa.
+For my PhD, I am investigating the thermal characteristics of environments influence animal populations. My research has focused on studying the western fence lizard, one of the most abundant and emblematic reptiles of the American west. For 5 years, I've monitored two populations of these lizards at varying elevations in the Great Basin Desert of Northern Nevada through a capture-mark-recapture approach. By applying complex statistical models to these data I can understand, as an example, how individual-level differences in the quality of lizard territories influence their traits and their chances of survival and reproduction. I have complemented this work with the development of computer tools to process drone thermal imaging data as well as multiple theoretical studies that are currently published as scientific papers. 
+To successfully complete my PhD, I need to finalize and defend my dissertation, which involves compiling my research findings and presenting them to my committee. This process also requires me to work hands-on with my advisor and fellow graduate students and conduct essential lab and field work in Reno. As such, returning to Reno as soon as possible would be greatly beneficial for both my research and my career and thus a timely renewal of my J-1 visa would be greatly appreciated.
+I am profoundly grateful for the opportunity to pursue my doctoral studies in the United States under a J-1 visa, an experience that has enriched my life immeasurably. The academic environment and research opportunities at the University of Nevada, Reno, have been invaluable in shaping my growth as a scientist. Beyond my academic pursuits, I have also found a cherished community in Reno, and the remarkable natural landscapes where I have conducted my research have left an indelible mark on me. I sincerely appreciate the support I have received throughout my program and I am eager to complete my PhD, contribute meaningfully to the scientific community, and give back to the United States of America.
+Please let me know if there is anything else you might need from me. 
+Sincerely,
+Guillermo Garcia Costoya

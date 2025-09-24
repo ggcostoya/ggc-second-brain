@@ -1,0 +1,13 @@
+{
+  "accentColor": "#ce9b55",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 19,
+  "interfaceFontFamily": "JetBrains Mono,Trebuchet MS",
+  "textFontFamily": "JetBrains Mono,Trebuchet MS",
+  "monospaceFontFamily": "JetBrains Mono,Trebuchet MS",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "list_spacing"
+  ],
+  "baseFontSizeAction": true
+}

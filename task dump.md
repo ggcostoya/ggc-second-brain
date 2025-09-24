@@ -1,0 +1,5 @@
+- [ ] fish out morphospecies for [[Glen Forister]] #flip #metaboflip #research ⛔ 53ej2e
+- [ ] receive check for college of science award #admin 🆔 t0032⏫ 
+- [ ] notify [[Eric Riddell]] and [[Phillip Bowles]] how exactly they need to submit letters of support #smith-noaa #research ⛔ bhxz5
+- [ ] write first draft response to reviewers #viviparity-model #research ⛔ 53ej2e
+- [ ] set up appointment with ms. Narmeen #personal 

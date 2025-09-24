@@ -1,0 +1,16 @@
+{
+  "vimMode": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "tabSize": 5
+}

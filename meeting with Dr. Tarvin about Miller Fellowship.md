@@ -1,0 +1,43 @@
+---
+tags:
+  - miller-berkeley-tarvin
+date: 2025-06-27
+people: Rebecca Tarvin
+type:
+  - meeting
+---
+- Miller Fellowship . 
+- Jim McGuire might be a better fit
+- Not sure as currently proposed to be competitive for the Miller. 
+- Adult-offspring conflict also applicable to humans - Really focus on that
+- Research question and outcome of the research important outside of conservation.
+- "Global hotspots of reproductive conflict"
+- Miller really wants splashy charismatic - has to be interdisciplinary. 
+- Favor projects that are a bit different than what you did as your PhD - similar field as PhD. 
+- Conflict has not been directly linked to the extirpation of - Are you sure that it has been the cause? 
+- What is the real impact? 
+- Ultimately whether or not the population can survive - 
+- Genetic variability - 
+- Think of testing the mechanism. 
+- Genetic evolvability approach, genetic approach. 
+- Running experiments on 
+- Frogs. 
+- Western Fence Lizard Conservation Genomics Project - Brad Shaffer UCLA. 
+	- Got funding to get reference genome. 
+	- Look across California, hot spots and cold spots in genetic diverstiy. 
+	- Selection to local habitat? 
+	- Ian Wong - Sceloporus occidentalis. 
+- Expertise and interests fall outside of expertise - her expertise is Genetic 
+- Testing function. 
+- Live bearing frogs - *Gastrocica mormaratus*? Marsupial Frogs. 
+- If you add something genetic or mechanistic. 
+- Show that I am doing something very different from my PhD. 
+- Nomination letter - Current Advisor - Make sure Eric Riddell. 
+- 1 or 2 other people are applying with her for the Miller this year. 
+- 15 for the Department. 
+- Her application and someone else's application. 
+- Matt Kustra. Another application she would send it with me. 
+- Next steps: 
+	- Re-write some of my ideas and send her an outline. 
+	- Potentially back and forth about that. 
+	- Move forward potentially contacting more faculty at the MVZ. 

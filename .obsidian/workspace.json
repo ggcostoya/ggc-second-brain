@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "926c231d5e018fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7616d3341266ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd6d462543c9b07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d9785c817768dfb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "504e510b94a2ac86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "d69968fd5eba6b09",
+    "type": "split",
+    "children": [
+      {
+        "id": "932e8cd336d37d6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4890bef9c70e73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "smith cover letter.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for smith cover letter"
+            }
+          },
+          {
+            "id": "2db5da490e65746e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "establishing a better plan of collaboration with IUCN folks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from establishing a better plan of collaboration with IUCN folks"
+            }
+          },
+          {
+            "id": "4742d56261a162b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ddeff90e44be49d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "establishing a better plan of collaboration with IUCN folks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of establishing a better plan of collaboration with IUCN folks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "task dump.md",
+    "smith objective 4 re-imagined.md",
+    "smith cover letter.md",
+    "establishing a better plan of collaboration with IUCN folks.md",
+    "Briscoe et al. 2023.md",
+    "Isaac et al. 2019.md",
+    "thoughts on feedback on first draft of Smith fellowship proposal.md",
+    "Pasted image 20250826115437.png",
+    "smith fellowship webinar.md",
+    "meeting with SDG about response to reviewers.md",
+    "meeting with Jon NDOW about Smith Proposal.md",
+    "tasks.md",
+    "metaboflip progress and goals.md",
+    "meeting with Brian Folt about Smith proposal.md",
+    "meeting with conservation practicioners about Smith Proposal.md",
+    "gemini oxygen research.md",
+    "oxygen, air pressure and temperature.md",
+    "email to IUCN - New Mexico people for Smith people.md",
+    "meeting about defining thermal quality.md",
+    "meeting with Dr. Tarvin about Miller Fellowship.md",
+    "datasets I need for further moves with metaboflip and other projects.md",
+    "shapeshifters lore.md",
+    "May's paradox.md",
+    "riddell proposals summary.md",
+    "papers looking into Gallotia galloti.md",
+    "review of Svensson et al. 2025.md",
+    "papers quantifying the metabolic costs of reproduction in lizards.md",
+    "Excalidraw/tpc-shape-differences-adult-embryo.svg",
+    "Excalidraw/tpc-shape-differences-adult-embryo.excalidraw",
+    "Excalidraw/smith-noaa-proposal-diagram.svg",
+    "Excalidraw/smith-noaa-proposal-diagram.excalidraw",
+    "Excalidraw/embryo-tpc-gestation-vs-postgestation.svg",
+    "Excalidraw/embryo-tpc-gestation-vs-postgestation.excalidraw",
+    "Excalidraw/adult-tpc-gestation-vs-postgestation.svg",
+    "Excalidraw/adult-tpc-gestation-vs-postgestation.excalidraw",
+    "Excalidraw/tpc-conflict-adult-offspring.excalidraw",
+    "Excalidraw",
+    "templates"
+  ]
+}

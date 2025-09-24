@@ -1,0 +1,47 @@
+---
+tags:
+  - smith-noaa
+date: 2025-07-16
+people:
+  - "[[Brian Folt]]"
+type:
+  - meeting
+---
+- Omit the citizen science data for now. 
+- Re-survey historical localities. 
+- Goal of a derivable in 2 years. 
+- Talking with Jon Young at NDOW - Developing a standard survey protocol. 
+	- Conservation practitioner that has a standardized lizard survey tool. 
+	- Pilot this approach with lizards. 
+	- Applied management tool. 
+- Talk to managers - Conservationists. 
+- Jon Young - what the biggest issues are? 
+- Standardized lizard protocol! State of Nevada is charged with managing wildlife, including protected lizards, habitat loss through new renewable energy areas. The best ways to survey for species communities. 
+- Biggest challenge - Narrative for the proposal. 
+- Think less about the science more about the needs
+- Nevada, Great Basin - Driest hottest, "environmental changes" - How will this community respond? 
+- Land use changes - Renewables, invasive species (cheatgrass)
+	- Nevada, southern half of the state - 200 proposals for renewable energy development. 
+	- "In response to that the state requires estimates" - Conservation practitioners need 
+	- Nevada South - Cheatgrass - Consequences on this in wildlife. 
+- Who will be the end user of this product?? - Jon Young NDOW, IUCN, 
+	- ICUN reptile species - are there any products you might need? 
+	- END PRODUCTS! 
+	- US Fish and Wildlife Service - Who is in charge to assess lizards? 
+		- Assessments of population trends. 
+		- Brian will make a phone call about who might be interested in this. 
+	-  Lizard folks at IUCN decisions for lizards in North America. 
+-  If I don't hear from him by Friday . 
+- TNC Sarah Byer - The more the merrier? 
+- This proposal needs to be clear narrative - Clear deliverable. 
+- Identify 1-2 conservation managers that are big hitters. 
+- ICUN model - Larger organization like US fish and Wildlife. 
+- Information that needs information to make decisions. 
+- Deliverables at regional and local scales. 
+- Conservation need to Jon Young. 
+- Staying local? - Happy to have you in my co-unit. 
+- Moving forward: 
+	- Send Brian the proposal by end of month. 
+	- Brian is going to ping Jon Young by the end of the week if he hasn't replied. 
+	- Brian will contact people at IUCN - connect us with relevant lizard folks. 
+	- Brian will contact people next Fish and Wildlife service. 	- 

@@ -1,0 +1,8 @@
+/* 10 pixel padding above each list item */
+.HyperMD-list-line { padding-top: 8px !important; }
+
+/* add spacing between paragraphs */
+.markdown-source-view :is(.cm-line + .cm-line) {
+    padding-top: 1em;
+ }
+
