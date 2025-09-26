@@ -1,5 +1,11 @@
-- [ ] fish out morphospecies for [[Glen Forister]] #flip #metaboflip #research ⛔ 53ej2e
-- [ ] receive check for college of science award #admin 🆔 t0032⏫ 
-- [ ] notify [[Eric Riddell]] and [[Phillip Bowles]] how exactly they need to submit letters of support #smith-noaa #research ⛔ bhxz5
-- [ ] write first draft response to reviewers #viviparity-model #research ⛔ 53ej2e
-- [ ] set up appointment with ms. Narmeen #personal 
+- [ ] fish out morphospecies for [[Glen Forister]] #flip #metaboflip #research 
+- [ ] receive check for college of science award #admin
+- [ ] write first draft response to reviewers #viviparity-model #research ⛔ 0cwwqh
+- [ ] set up appointment with Ms. Narmeen #personal 
+- [x] notify [[Phillip Bowles]] about writing letter of support and uploading 2-page CV #smith-noaa #research ✅ 2025-09-24
+- [ ] add budget to #smith-noaa proposal #research 🆔 1y86t9
+- [ ] have final draft of #smith-noaa proposal and everything ready to submit #research  🆔 ifo5s1 ⛔ 1y86t9 📅 2025-09-28
+- [ ] submit #smith-noaa proposal #research  🆔 0cwwqh ⛔ ifo5s1 📅 2025-09-30
+- [ ] make list of all #admin paperwork I need before graduation 
+- [ ] contact [[Eric Riddell]] to ask him if he would be willing to come give a talk at the same time as my defense #admin 🆔 l9j9j2 ⛔ 0cwwqh
+- [ ] contact committee members about best date for defense #admin ⛔ l9j9j2

@@ -2,10 +2,10 @@
   "dataview",
   "obsidian-tasks-plugin",
   "homepage",
-  "obsidian-advanced-slides",
   "obsidian-excalidraw-plugin",
-  "omnisearch",
   "tag-wrangler",
-  "obsidian-languagetool-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "omnisearch",
+  "editing-toolbar",
+  "quickadd"
 ]
