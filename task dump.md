@@ -1,13 +1,7 @@
 - [ ] fish out morphospecies for [[Glen Forister]] #flip #metaboflip #research 
 - [ ] receive check for college of science award #admin
-- [ ] write first draft response to reviewers #viviparity-model #research ⛔ 0cwwqh
-- [ ] set up appointment with Ms. Narmeen #personal 
-- [x] notify [[Phillip Bowles]] about writing letter of support and uploading 2-page CV #smith-noaa #research ✅ 2025-09-24
-- [x] add budget to #smith-noaa proposal #research 🆔 1y86t9 ✅ 2025-09-27
-- [ ] have final draft of #smith-noaa proposal and everything ready to submit #research  🆔 ifo5s1 ⛔ 1y86t9 📅 2025-09-28
-- [ ] submit #smith-noaa proposal #research  🆔 0cwwqh ⛔ ifo5s1 📅 2025-09-30
 - [ ] make list of all #admin paperwork I need before graduation 
-- [ ] contact [[Eric Riddell]] to ask him if he would be willing to come give a talk at the same time as my defense #admin 🆔 l9j9j2 ⛔ 0cwwqh
-- [ ] contact committee members about best date for defense #admin ⛔ l9j9j2
-- [ ] add citations to #smith-noaa proposal #research 
-
+- [ ] contact committee members about best date for defense #admin ⛔ d2b6z1
+- [ ] hear from [[Eric Riddell]] about potential for Colloquium talk and defense #admin 🆔 d2b6z1
+- [x] hear from [[Andrew Nuss]] about meeting to quantify energy content in insects #research #metaboflip #flip ✅ 2025-10-10
+- [x] hear from [[Tom Parchmann]] about when I will be able to access the genetic data #research #flip #gestmodel ✅ 2025-10-10

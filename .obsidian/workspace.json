@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc8dcd267dde2c0",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4a0eeef9d1fdc4b0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
             }
           }
         ]
@@ -84,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 424.5110321044922
   },
   "right": {
     "id": "d69968fd5eba6b09",
@@ -190,20 +194,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a0eeef9d1fdc4b0",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "meeting with Dr. Nuss about quantifying energy content in insects.md",
+    "tasks.md",
+    "task dump.md",
+    "task dum.md",
+    "gemini oxygen research.md",
+    "meeting with Vasseur about YIBS fellowships.md",
     "extraction, a sequel to inception original idea.md",
     "thoughts about friday night.md",
+    "2025-10-04.md",
+    "Lapiedra et al. 2018.md",
     "May's paradox.md",
     "Untitled.base",
-    "task dump.md",
-    "tasks.md",
     "Briscoe et al. 2023.md",
     "Byrnes & Dee 2024.md",
     "Joe Welkin Colloquium.md",
     "Pasted image 20250925124532.png",
     "test.md",
-    "Untitled.md",
     "smith objective 4 re-imagined.md",
     "README.md",
     "smith cover letter.md",
@@ -216,11 +225,6 @@
     "meeting with Jon NDOW about Smith Proposal.md",
     "metaboflip progress and goals.md",
     "meeting with Brian Folt about Smith proposal.md",
-    "meeting with conservation practicioners about Smith Proposal.md",
-    "gemini oxygen research.md",
-    "oxygen, air pressure and temperature.md",
-    "email to IUCN - New Mexico people for Smith people.md",
-    "meeting about defining thermal quality.md",
     "Excalidraw/tpc-shape-differences-adult-embryo.svg",
     "Excalidraw/tpc-shape-differences-adult-embryo.excalidraw",
     "Excalidraw/smith-noaa-proposal-diagram.svg",
