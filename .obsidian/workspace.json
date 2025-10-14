@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
             }
           }
         ]
@@ -193,8 +197,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "thoughts about friday night.md",
     "tasks.md",
+    "thoughts about friday night.md",
     "meeting with Dr. Nuss about quantifying energy content in insects.md",
     "task dump.md",
     "task dum.md",
