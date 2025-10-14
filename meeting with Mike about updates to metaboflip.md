@@ -9,4 +9,6 @@ type:
 ---
 ## meeting prep
 -  calculating home ranges 
-- penalizing 
+- penalizing behavioral thermoregulation over space. 
+- reliability of crevice OTMs and using other methods to quantify underground temperatures. 
+- 
