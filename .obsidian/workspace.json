@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meeting with Mike about updates to metaboflip.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "meeting with Mike about updates to metaboflip"
+              "title": "tasks"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "0f759703f3b06fbb",
   "lastOpenFiles": [
-    "tasks.md",
     "meeting with Mike about updates to metaboflip.md",
+    "tasks.md",
     "task dump.md",
     "meeting with Dr. Nuss about quantifying energy content in insects.md",
     "thoughts about friday night.md",

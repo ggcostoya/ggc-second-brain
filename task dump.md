@@ -6,3 +6,4 @@
 - [x] hear from [[Andrew Nuss]] about meeting to quantify energy content in insects #research #metaboflip #flip ✅ 2025-10-10
 - [x] hear from [[Tom Parchmann]] about when I will be able to access the genetic data #research #flip #gestmodel ✅ 2025-10-10- [ ] prepare red queen activity #admin #teaching
 - [x] prepare red queen game activity for evolution #teaching #admin ✅ 2025-10-14
+- [ ] prepare updated materials for final submission to [[Evolution Letters]] #research #viviparity-model
