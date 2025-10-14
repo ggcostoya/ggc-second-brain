@@ -4,4 +4,5 @@
 - [ ] contact committee members about best date for defense #admin ⛔ d2b6z1
 - [ ] hear from [[Eric Riddell]] about potential for Colloquium talk and defense #admin 🆔 d2b6z1
 - [x] hear from [[Andrew Nuss]] about meeting to quantify energy content in insects #research #metaboflip #flip ✅ 2025-10-10
-- [x] hear from [[Tom Parchmann]] about when I will be able to access the genetic data #research #flip #gestmodel ✅ 2025-10-10
+- [x] hear from [[Tom Parchmann]] about when I will be able to access the genetic data #research #flip #gestmodel ✅ 2025-10-10- [ ] prepare red queen activity #admin #teaching
+- [ ] prepare red queen game activity for evolution #teaching #admin

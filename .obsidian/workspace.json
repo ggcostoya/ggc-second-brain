@@ -80,11 +80,12 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-files"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,10 +198,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "tasks.md",
-    "thoughts about friday night.md",
-    "meeting with Dr. Nuss about quantifying energy content in insects.md",
     "task dump.md",
+    "tasks.md",
+    "meeting with Dr. Nuss about quantifying energy content in insects.md",
+    "thoughts about friday night.md",
     "task dum.md",
     "gemini oxygen research.md",
     "meeting with Vasseur about YIBS fellowships.md",
