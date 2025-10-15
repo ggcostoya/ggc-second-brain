@@ -5,6 +5,10 @@
       "path": "tasks.md"
     },
     {
+      "basename": "task dump",
+      "path": "task dump.md"
+    },
+    {
       "basename": "embryo-tpc-gestation-vs-postgestation",
       "path": "Excalidraw/embryo-tpc-gestation-vs-postgestation.svg"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "meeting with Mike about updates to metaboflip",
       "path": "meeting with Mike about updates to metaboflip.md"
-    },
-    {
-      "basename": "task dump",
-      "path": "task dump.md"
     },
     {
       "basename": "meeting with Dr. Nuss about quantifying energy content in insects",

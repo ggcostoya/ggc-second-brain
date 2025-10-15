@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tasks"
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tasks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for tasks"
             }
           },
           {
@@ -118,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from tasks"
             }
           },
           {
@@ -146,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tasks"
             }
           },
           {
@@ -164,7 +171,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,8 +194,9 @@
       "quickadd:QuickAdd": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "acc76a60fd9052f3",
   "lastOpenFiles": [
+    "task dump.md",
     "tasks.md",
     "Excalidraw/embryo-tpc-gestation-vs-postgestation.svg",
     "Excalidraw/smith-noaa-proposal-diagram.md",
@@ -198,7 +207,6 @@
     "Excalidraw/tpc-shape-differences-adult-embryo.md",
     "Excalidraw/smith-noaa-proposal-diagram.svg",
     "meeting with Mike about updates to metaboflip.md",
-    "task dump.md",
     "meeting with Dr. Nuss about quantifying energy content in insects.md",
     "thoughts about friday night.md",
     "task dum.md",

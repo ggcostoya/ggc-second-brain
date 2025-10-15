@@ -2,8 +2,9 @@
 - [ ] receive check for college of science award #admin
 - [ ] make list of all #admin paperwork I need before graduation 
 - [ ] contact committee members about best date for defense #admin ⛔ d2b6z1
-- [x] hear from [[Eric Riddell]] about potential for Colloquium talk and defense #admin 🆔 d2b6z1 ✅ 2025-10-14
-- [x] hear from [[Andrew Nuss]] about meeting to quantify energy content in insects #research #metaboflip #flip ✅ 2025-10-10
-- [x] hear from [[Tom Parchmann]] about when I will be able to access the genetic data #research #flip #gestmodel ✅ 2025-10-10- [ ] prepare red queen activity #admin #teaching
-- [x] prepare red queen game activity for evolution #teaching #admin ✅ 2025-10-14
-- [ ] prepare updated materials for final submission to [[Evolution Letters]] #research #viviparity-model
+- [ ] prepare updated materials for final submission to [[Evolution Letters]] #research #viviparity-model 
+- [ ] hear from [[Beth Ledger]] about possibility to fly back home earlier #admin 🆔 wqkxfd
+- [ ] purchase flights back home to BCN, CT and Portland for SICB #admin ⛔ wqkxfd
+- [ ] hear from SICB about the Charlotte Mangum award #admin 🆔 df6auo
+- [ ] purchase accomodations to SICB #admin 🆔 9e65hy ⛔ df6auo
+- [ ] apply to GSA travel grant #admin ⛔ 9e65hy 
