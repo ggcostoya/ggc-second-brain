@@ -124,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from tasks"
             }
           },
           {
@@ -152,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tasks"
             }
           },
           {
@@ -170,7 +172,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,6 +198,7 @@
   "active": "e74381169870f282",
   "lastOpenFiles": [
     "tasks.md",
+    "task dump.md",
     "Excalidraw/embryo-tpc-gestation-vs-postgestation.svg",
     "Excalidraw/smith-noaa-proposal-diagram.md",
     "Excalidraw/adult-tpc-gestation-vs-postgestation.excalidraw",
@@ -204,7 +208,6 @@
     "Excalidraw/tpc-shape-differences-adult-embryo.md",
     "Excalidraw/smith-noaa-proposal-diagram.svg",
     "meeting with Mike about updates to metaboflip.md",
-    "task dump.md",
     "meeting with Dr. Nuss about quantifying energy content in insects.md",
     "thoughts about friday night.md",
     "task dum.md",
