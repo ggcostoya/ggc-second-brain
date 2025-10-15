@@ -7,7 +7,9 @@
   "monospaceFontFamily": "JetBrains Mono,Trebuchet MS",
   "theme": "system",
   "enabledCssSnippets": [
-    "list_spacing"
+    "list_spacing",
+    "header-spacing"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": true
 }
