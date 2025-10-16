@@ -37,4 +37,4 @@ date: 2025-10-15
 	- `act`: 0 for sheltering, 1 for basking, 2 for activity. 0 will always be assigned if underground, 1 will be assigned is the animal is on the surface and its predicted $T_b$ is below 1 C of $T_{pref}$ and 2 if the animal is within 1 C of $T_{pref}$ and thus active. 
 ## potential validation against real world data
 - We can check the average distance of each actual individual observation to the locations the simulation has predicted. 
-- We can also compare the average 
+- We can also compare the body temperature we measured in the field to the average predicted body temperature across multiple simulations. 
