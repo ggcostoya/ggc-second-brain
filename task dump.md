@@ -1,9 +1,9 @@
 - [ ] fish out morphospecies for [[Glen Forister]] #flip #metaboflip #research 
-- [ ] receive check for college of science award #admin
+- [x] receive check for college of science award #admin ✅ 2025-10-17
 - [ ] make list of all #admin paperwork I need before graduation 
 - [ ] contact committee members about best date for defense #admin ⛔ d2b6z1
-- [ ] prepare updated materials for final submission to [[Evolution Letters]] #research #viviparity-model 
-- [ ] hear from [[Beth Ledger]] about possibility to fly back home earlier #admin 🆔 wqkxfd
+- [x] prepare updated materials for final submission to [[Evolution Letters]] #research #viviparity-model ✅ 2025-10-17
+- [x] hear from [[Beth Ledger]] about possibility to fly back home earlier #admin 🆔 wqkxfd ✅ 2025-10-17
 - [ ] purchase flights back home to BCN, CT and Portland for SICB #admin ⛔ wqkxfd
 - [ ] hear from SICB about the Charlotte Mangum award #admin 🆔 df6auo
 - [ ] purchase accomodations to SICB #admin 🆔 9e65hy ⛔ df6auo

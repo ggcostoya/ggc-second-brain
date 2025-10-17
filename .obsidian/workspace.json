@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random topics about gestmodel.md",
+                "file": "tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "random topics about gestmodel"
+              "title": "tasks"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "1257d963fc125940",
   "lastOpenFiles": [
-    "tasks.md",
     "random topics about gestmodel.md",
+    "tasks.md",
     "meeting with Mike about updates to metaboflip.md",
     "Simulation for behavioral thermoregulation..md",
     "Estimating underground operative temperatures.md",
