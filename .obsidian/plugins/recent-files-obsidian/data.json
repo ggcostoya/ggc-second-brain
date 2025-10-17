@@ -1,20 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "tasks",
-      "path": "tasks.md"
-    },
-    {
-      "basename": "random topics about gestmodel",
-      "path": "random topics about gestmodel.md"
-    },
-    {
       "basename": "meeting with Mike about updates to metaboflip",
       "path": "meeting with Mike about updates to metaboflip.md"
-    },
-    {
-      "basename": "Simulation for behavioral thermoregulation.",
-      "path": "Simulation for behavioral thermoregulation..md"
     },
     {
       "basename": "Estimating underground operative temperatures",
@@ -23,6 +11,18 @@
     {
       "basename": "task dump",
       "path": "task dump.md"
+    },
+    {
+      "basename": "Simulation for behavioral thermoregulation.",
+      "path": "Simulation for behavioral thermoregulation..md"
+    },
+    {
+      "basename": "random topics about gestmodel",
+      "path": "random topics about gestmodel.md"
+    },
+    {
+      "basename": "tasks",
+      "path": "tasks.md"
     },
     {
       "basename": "embryo-tpc-gestation-vs-postgestation",
